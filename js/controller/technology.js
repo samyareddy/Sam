@@ -1,0 +1,41 @@
+
+var app = angular.module('myApp',[]);
+
+app.controller('technologyController', function($scope) {
+	$scope.technology = technologyname });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
